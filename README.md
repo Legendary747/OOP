@@ -1,19 +1,10 @@
 # OOP 2022 solutions
 
-我是废物
+Might be wrong, But i don't care. As long as I pass all the spec tests.
 
-都是乱写的
-
-甚至逻辑都不通 过了test就行
-
-我是废物
-
-都是乱写的
+Close for any kind of suggestions, because I am lazy to spent time on this course.
 
 ---
 
-random solutions, maybe not even correct .
+独断万古荒天帝 唯负罪洲采桑女
 
-Just try to pass all the tests there are on the Weblab.
-
-Open for any kind of suggestions.
